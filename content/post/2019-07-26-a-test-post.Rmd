@@ -1,0 +1,19 @@
+---
+title: A test post
+author: ~
+date: '2019-07-26'
+slug: a-test-post
+categories: ["R"]
+tags: ["blogdown", "some test"]
+comments: yes
+image: ''
+menu: ''
+share: yes
+---
+
+Some random text here.
+
+```{r}
+# some random code
+x <- 0.0
+```
