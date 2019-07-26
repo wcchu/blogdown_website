@@ -12,15 +12,15 @@
 
 
 
-<meta name="twitter:title" content="Hello R Markdown"/>
+<meta name="twitter:title" content="A test post"/>
 <meta name="twitter:description" content=""/>
 <meta name="twitter:site" content="@vjeantet"/>
 
 
 
-  	<meta property="og:title" content="Hello R Markdown &middot; My blog is awesome" />
+  	<meta property="og:title" content="A test post &middot; My blog is awesome" />
   	<meta property="og:site_name" content="My blog is awesome" />
-  	<meta property="og:url" content="/post/2015-07-23-r-rmarkdown/" />
+  	<meta property="og:url" content="/post/a-test-post/" />
 
     
         
@@ -31,21 +31,20 @@
     
     <meta property="og:description" content="" />
   	<meta property="og:type" content="article" />
-    <meta property="article:published_time" content="2015-07-23T21:13:14-05:00" />
+    <meta property="article:published_time" content="2019-07-26T00:00:00Z" />
 
     
-    <meta property="article:tag" content="R Markdown" />
+    <meta property="article:tag" content="blogdown" />
     
-    <meta property="article:tag" content="plot" />
-    
-    <meta property="article:tag" content="regression" />
+    <meta property="article:tag" content="some test" />
     
     
 
-    <title>Hello R Markdown &middot; My blog is awesome</title>
+    <title>A test post &middot; My blog is awesome</title>
 
     
-    <meta name="description" content="R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Ma" />
+    <meta name="description" content=" Some random text here.
+# some random code x &amp;lt;- 0.0 " />
     
 
     <meta name="HandheldFriendly" content="True" />
@@ -71,7 +70,7 @@
     
     <meta name="generator" content="Hugo 0.56.0" />
 
-    <link rel="canonical" href="/post/2015-07-23-r-rmarkdown/" />
+    <link rel="canonical" href="/post/a-test-post/" />
 
     
       
@@ -110,23 +109,23 @@
         "description": "my bio"
         
     },
-    "headline": "Hello R Markdown",
-    "name": "Hello R Markdown",
-    "wordCount":  159 ,
+    "headline": "A test post",
+    "name": "A test post",
+    "wordCount":  11 ,
     "timeRequired": "PT1M",
     "inLanguage": {
       "@type": "Language",
       "alternateName": "en"
     },
-    "url": "/post/2015-07-23-r-rmarkdown/",
-    "datePublished": "2015-07-23T21:13Z",
-    "dateModified": "2015-07-23T21:13Z",
+    "url": "/post/a-test-post/",
+    "datePublished": "2019-07-26T00:00Z",
+    "dateModified": "2019-07-26T00:00Z",
     
-    "keywords": "R Markdown, plot, regression",
+    "keywords": "blogdown, some test",
     "description": "",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "/post/2015-07-23-r-rmarkdown/"
+        "@id": "/post/a-test-post/"
     }
 }
     </script>
@@ -196,21 +195,19 @@
   <article class="post post">
 
     <header class="post-header">
-        <h1 class="post-title">Hello R Markdown</h1>
+        <h1 class="post-title">A test post</h1>
         <small></small>
 
         <section class="post-meta">
         
-          <time class="post-date" datetime="2015-07-23T21:13:14-05:00">
-            Jul 23, 2015
+          <time class="post-date" datetime="2019-07-26T00:00:00Z">
+            Jul 26, 2019
           </time>
         
          
-          <span class="post-tag small"><a href="//tags/r-markdown/">#R Markdown</a></span>
+          <span class="post-tag small"><a href="//tags/blogdown/">#blogdown</a></span>
          
-          <span class="post-tag small"><a href="//tags/plot/">#plot</a></span>
-         
-          <span class="post-tag small"><a href="//tags/regression/">#regression</a></span>
+          <span class="post-tag small"><a href="//tags/some-test/">#some test</a></span>
          
         </section>
     </header>
@@ -219,45 +216,9 @@
       
 
 
-<div id="r-markdown" class="section level1">
-<h1>R Markdown</h1>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>You can embed an R code chunk like this:</p>
-<pre class="r"><code>summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932</code></pre>
-</div>
-<div id="including-plots" class="section level1">
-<h1>Including Plots</h1>
-<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
-<pre class="r"><code>par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
-  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
-  init.angle = -50, border = NA
-)</code></pre>
-<div class="figure"><span id="fig:pie"></span>
-<img src="/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">
-Figure 1: A fancy pie chart.
-</p>
-</div>
-</div>
+<p>Some random text here.</p>
+<pre class="r"><code># some random code
+x &lt;- 0.0</code></pre>
 
     </section>
 
@@ -275,12 +236,12 @@ Figure 1: A fancy pie chart.
 
 
 <figure class="author-image">
-    <a class="img" href="/" style="background-image: url(/images/logo.png)"><span class="hidden">Frida Gomam's Picture</span></a>
+    <a class="img" href="/" style="background-image: url(/images/logo.png)"><span class="hidden">Valère JEANTET's Picture</span></a>
 </figure>
 
 
 <section class="author">
-  <h4><a href="/">Frida Gomam</a></h4>
+  <h4><a href="/">Valère JEANTET</a></h4>
   
   <p>my bio</p>
   
@@ -296,19 +257,19 @@ Figure 1: A fancy pie chart.
     
 <section class="share">
   <h4>Share this post</h4>
-  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Hello%20R%20Markdown&nbsp;-&nbsp;My%20blog%20is%20awesome&amp;url=%2fpost%2f2015-07-23-r-rmarkdown%2f"
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=A%20test%20post&nbsp;-&nbsp;My%20blog%20is%20awesome&amp;url=%2fpost%2fa-test-post%2f"
       onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
       <span class="hidden">Twitter</span>
   </a>
-  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=%2fpost%2f2015-07-23-r-rmarkdown%2f"
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=%2fpost%2fa-test-post%2f"
       onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
       <span class="hidden">Facebook</span>
   </a>
-  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=%2fpost%2f2015-07-23-r-rmarkdown%2f&amp;description=Hello%20R%20Markdown"
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=%2fpost%2fa-test-post%2f&amp;description=A%20test%20post"
       onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
       <span class="hidden">Pinterest</span>
   </a>
-  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=%2fpost%2f2015-07-23-r-rmarkdown%2f"
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=%2fpost%2fa-test-post%2f"
      onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
       <span class="hidden">Google+</span>
   </a>
@@ -332,13 +293,12 @@ Figure 1: A fancy pie chart.
 
   <aside class="read-next">
   
-      <a class="read-next-story" style="no-cover" href="/post/a-test-post/">
+  
+      <a class="read-next-story prev" style="no-cover" href="/post/2015-07-23-r-rmarkdown/">
           <section class="post">
-              <h2>A test post</h2>
-              
+              <h2>Hello R Markdown</h2>
           </section>
       </a>
-  
   
 </aside>
 
