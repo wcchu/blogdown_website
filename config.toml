@@ -1,5 +1,5 @@
 theme = "hugo-theme-casper"
-baseURL = "https://wcchu.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 description = "some description"
