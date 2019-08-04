@@ -1,7 +1,7 @@
 theme = "hugo-theme-casper"
 baseURL = "/"
 languageCode = "en-us"
-title = "Jubarly Studio"
+title = "Wei-Chun Chu"
 publishDir = "../wcchu.github.io"
 
 [[menu.main]]
@@ -16,17 +16,17 @@ paginate = 5
 
 [params]
 #   description = "Welcome to my website"
-  cover = "images/portrait_of_baby.jpg"
+    cover = "images/sun-moon_lake.jpg"
 
-  author = "Wei-Chun Chu (Jubarly)"
-  authorlocation = "Berlin, Germany"
-  authorbio= "Berlin-based visual artist. His art explores the interactions between light and materials, and brings sci-fi story telling to abstract painting."
+    author = "Wei-Chun Chu"
+    authorlocation = "Berlin, Germany"
+    # authorbio= "Berlin-based visual artist. His art explores the interactions between light and materials, and brings sci-fi story telling to abstract painting."
 
-  logo = "images/portrait_of_baby.jpg"
+    logo = "images/portrait_of_baby.jpg"
 #   googleAnalyticsUserID = "UA-79101-12"
 
 #   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
 #   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
 #   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-   hjsStyle = "default"
+    hjsStyle = "default"
 
