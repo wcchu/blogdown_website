@@ -10,7 +10,9 @@ publishDir = "../wcchu.github.io"
 [[menu.main]]
     name = "Instagram"
     url = "https://www.instagram.com/jubarlystudio/"
-
+[[menu.main]]
+    name = "SoundCloud"
+    url = "https://soundcloud.com/wcchu"
 
 paginate = 5
 
