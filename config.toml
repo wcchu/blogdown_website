@@ -1,34 +1,71 @@
-theme = "hugo-theme-casper"
-baseURL = "/"
-languageCode = "en-us"
-title = "Wei-Chun Chu"
-publishDir = "../wcchu.github.io"
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/wcchu"
-[[menu.main]]
-    name = "Instagram"
-    url = "https://www.instagram.com/jubarlystudio/"
-[[menu.main]]
-    name = "SoundCloud"
-    url = "https://soundcloud.com/wcchu"
+# Title of your site
+title = "Academic"
 
-paginate = 5
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://wcchu.githuc.io/"
 
-[params]
-#   description = "Welcome to my website"
-    cover = "images/sun-moon_lake.jpg"
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright = ""
 
-    author = "Wei-Chun Chu"
-    authorlocation = "Berlin, Germany"
-    # authorbio= "Berlin-based visual artist. His art explores the interactions between light and materials, and brings sci-fi story telling to abstract painting."
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = ""
 
-    logo = "images/portrait_of_baby.jpg"
-#   googleAnalyticsUserID = "UA-79101-12"
+############################
+## Advanced options below ##
+############################
 
-#   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
-#   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
-#   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-    hjsStyle = "default"
+# Name of Academic theme folder in `themes/`.
+theme = "hugo-academic"
 
+# Get last modified date for content from Git?
+enableGitInfo = false
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
+removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+
+paginate = 10  # Number of items per page in paginated lists.
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	angledQuotes = false
+	latexDashes = true
+  extensions = ["backslashLineBreak"]
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"

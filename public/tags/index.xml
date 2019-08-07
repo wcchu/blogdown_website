@@ -1,31 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My blog is awesome</title>
+    <title>Tags | Academic</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on My blog is awesome</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
     <item>
-      <title>blogdown</title>
-      <link>/tags/blogdown/</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/blogdown/</guid>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>some test</title>
-      <link>/tags/some-test/</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/some-test/</guid>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
@@ -33,7 +48,6 @@
       <title>R Markdown</title>
       <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
       <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
@@ -42,7 +56,6 @@
       <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
       <guid>/tags/plot/</guid>
       <description></description>
     </item>
@@ -51,7 +64,6 @@
       <title>regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
       <guid>/tags/regression/</guid>
       <description></description>
     </item>
