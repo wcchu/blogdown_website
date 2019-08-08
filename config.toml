@@ -1,17 +1,14 @@
 theme = "hugo-theme-casper"
-baseURL = "/"
+BaseUrl = "/"
 publishDir = "../wcchu.github.io/"
-languageCode = "en-us"
-title = "JU***BAR***LY"
+LanguageCode = "en-us"
+Title = "JU***BAR***LY"
+paginate = 5
+# DisqusShortname = "YOUR_SHORT_NAME_HERE"
+Copyright = "All rights reserved - 2019"
+canonifyurls = true
 enableEmoji = true
 comments = true
-# googleAnalytics = ""
-
-[social]
-    github  = "https://github.com/wcchu"
-    twitter = "https://twitter.com/weichunchu01"
-    instagram = "https://www.instagram.com/jubarlystudio"
-    soundcloud = "https://soundcloud.com/wcchu"
 
 [[menu.main]]
     name = "Categories"
@@ -31,6 +28,7 @@ comments = true
 
     author = "Wei-Chun Chu"
     authorlocation = "Berlin, Germany"
+    # googleAnalyticsUserID = "UA-79101-12"
 
     logo = "images/portrait_of_baby.jpg"
     hideHUGOSupport = true
@@ -38,3 +36,14 @@ comments = true
     twitterName = "weichunchu01"
     instagramName = "jubarlystudio"
     githubName = "wcchu"
+
+    # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+    # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+    # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+    hjsStyle = "default"
+
+[param.social]
+    github  = "https://github.com/wcchu"
+    twitter = "https://twitter.com/weichunchu01"
+    instagram = "https://www.instagram.com/jubarlystudio"
+    soundcloud = "https://soundcloud.com/wcchu"
