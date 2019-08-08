@@ -1,71 +1,40 @@
-# Configuration of Academic
-# Documentation: https://sourcethemes.com/academic/
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
-
-# Title of your site
-title = "Academic"
-
-# The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://wcchu.githuc.io/"
-
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
-
-# Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
-
-############################
-## Advanced options below ##
-############################
-
-# Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
-
-# Get last modified date for content from Git?
-enableGitInfo = false
-
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
-removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
-
-paginate = 10  # Number of items per page in paginated lists.
+theme = "hugo-theme-casper"
+baseURL = "/"
+publishDir = "../wcchu.github.io/"
+languageCode = "en-us"
+title = "JU***BAR***LY"
 enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+comments = true
+# googleAnalytics = ""
 
-[outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
+[social]
+    github  = "https://github.com/wcchu"
+    twitter = "https://twitter.com/weichunchu01"
+    instagram = "https://www.instagram.com/jubarlystudio"
+    soundcloud = "https://soundcloud.com/wcchu"
 
-[mediaTypes."application/manifest+json"]
-  suffixes = ["webmanifest"]
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
 
-[outputFormats.WebAppManifest]
-  mediaType = "application/manifest+json"
-  rel = "manifest"
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
 
-# Configure BlackFriday Markdown rendering.
-#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
-[blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
-	angledQuotes = false
-	latexDashes = true
-  extensions = ["backslashLineBreak"]
+[[menu.main]]
+    name = "About"
+    url = "/about/"
 
-[imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+[params]
+    description = "Wei-Chun Chu's Blog"
+    cover = "images/sun-moon_lake.jpg"
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+    author = "Wei-Chun Chu"
+    authorlocation = "Berlin, Germany"
+
+    logo = "images/portrait_of_baby.jpg"
+    hideHUGOSupport = true
+
+    twitterName = "weichunchu01"
+    instagramName = "jubarlystudio"
+    githubName = "wcchu"
