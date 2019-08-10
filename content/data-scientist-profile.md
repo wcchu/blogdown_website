@@ -1,7 +1,6 @@
 ---
 title: Data Scientist Profile
 author: ~
-date: '2019-08-10'
 slug: data-scientist-profile
 categories: ["Data Science"]
 tags: ["datascience"]

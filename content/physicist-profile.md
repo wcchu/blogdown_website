@@ -1,7 +1,6 @@
 ---
 title: Physicist Profile
 author: ~
-date: '2019-08-10'
 slug: physicist-profile
 categories: ["Physics"]
 tags: ["physics", "underconstruction"]

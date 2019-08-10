@@ -1,7 +1,6 @@
 ---
 title: Artist Profile
 author: ~
-date: '2019-08-09'
 slug: artist-profile
 categories: ["Art"]
 tags: ["art"]
