@@ -30,6 +30,14 @@ comments = true
     name = "category - Data Science"
     url = "/categories/data-science/"
 
+[[menu.main]]
+    name = "category - Music"
+    url = "/categories/music/"
+
+[[menu.main]]
+    name = "category - Physics"
+    url = "/categories/physics/"
+
 [params]
     description = "Wei-Chun Chu's Blog"
     cover = "images/sun-moon_lake.jpg"

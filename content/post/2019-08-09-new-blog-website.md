@@ -3,7 +3,7 @@ title: New blog website
 author: ~
 date: '2019-08-09'
 slug: new-blog-website
-categories: ["Announcement"]
+categories: ["Miscellaneous"]
 tags: ["programming", "writing"]
 comments: yes
 image: ''

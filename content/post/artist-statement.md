@@ -1,5 +1,5 @@
 ---
-title: Artist statement
+title: Artist Statement
 author: ~
 date: '2019-08-09'
 slug: artist-statement
