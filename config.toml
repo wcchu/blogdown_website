@@ -38,6 +38,10 @@ comments = true
     name = "category - Physics"
     url = "/categories/physics/"
 
+[[menu.main]]
+    name = "category - Politics"
+    url = "/categories/politics/"
+
 [params]
     description = "Wei-Chun Chu's Blog"
     cover = "images/sun-moon_lake.jpg"
