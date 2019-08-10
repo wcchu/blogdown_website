@@ -1,8 +1,8 @@
 ---
-title: Artist Statement
+title: Artist Profile
 author: ~
 date: '2019-08-09'
-slug: artist-statement
+slug: artist-profile
 categories: ["Art"]
 tags: ["art"]
 comments: yes
