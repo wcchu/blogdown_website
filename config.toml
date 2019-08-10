@@ -11,6 +11,10 @@ enableEmoji = true
 comments = true
 
 [[menu.main]]
+    name = "About"
+    url = "/about/"
+
+[[menu.main]]
     name = "Categories"
     url = "/categories/"
 
@@ -19,8 +23,12 @@ comments = true
     url = "/tags/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "category - Art"
+    url = "/categories/art/"
+
+[[menu.main]]
+    name = "category - Data Science"
+    url = "/categories/data-science/"
 
 [params]
     description = "Wei-Chun Chu's Blog"
@@ -30,7 +38,7 @@ comments = true
     authorlocation = "Berlin, Germany"
     # googleAnalyticsUserID = "UA-79101-12"
 
-    logo = "images/portrait_of_baby.jpg"
+    logo = "images/profile_pic_3.jpg"
     hideHUGOSupport = true
 
     twitterName = "weichunchu01"
