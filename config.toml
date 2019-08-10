@@ -44,7 +44,7 @@ comments = true
 
 [params]
     description = "Wei-Chun Chu's Blog"
-    cover = "images/sun-moon_lake.jpg"
+    cover = "images/shiny_object.jpg"
 
     author = "Wei-Chun Chu"
     authorlocation = "Berlin, Germany"
