@@ -42,7 +42,7 @@ share: yes
 ##### Research associate at Physics Department, Kansas State University, Manhattan, Kansas, USA
 *Oct 2009 – Feb 2013*
 
-### Data science courses
+### Courses
 
 Course name | Institute | Certificate | Date
 --- | --- | --- | ---
@@ -54,7 +54,7 @@ Managing Big Data with MySQL | Duke University on Coursera | 7WCVEL24ERRV | Feb 
 Statistical Inference | Johns Hopkins University on Coursera | WZURSA9RYN | Nov 2015
 Scaling to Petascale Workshop | Louisiana State University | | Aug 2009
 
-### Data science projects
+### Projects
 
 - Tic-tac-toe - Reinforcement learning exercise in golang https://github.com/wcchu/GoTick
 - Artificial neural network experiments with TensorFlow 2.0 https://github.com/wcchu/NN-expt

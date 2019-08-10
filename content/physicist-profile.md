@@ -14,8 +14,6 @@ share: yes
 
 add the following items
 
-- link to research gate
-- link to arxiv
-- link to google scholar
 - cv-type bio
+- links to publications
 - project samples
