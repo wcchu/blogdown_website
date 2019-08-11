@@ -15,10 +15,6 @@ comments = true
     url = "/about/"
 
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-
-[[menu.main]]
     name = "Tags"
     url = "/tags/"
 
@@ -39,8 +35,8 @@ comments = true
     url = "/categories/physics/"
 
 [[menu.main]]
-    name = "category - Politics"
-    url = "/categories/politics/"
+    name = "category - Miscellaneous"
+    url = "/categories/miscellaneous/"
 
 [params]
     description = "Wei-Chun Chu's Blog"

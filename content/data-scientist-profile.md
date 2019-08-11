@@ -3,7 +3,7 @@ title: Data Scientist Profile
 author: ~
 slug: data-scientist-profile
 categories: ["Data Science"]
-tags: ["datascience"]
+tags: ["datascience", 'about']
 comments: no
 image: ''
 menu: ''

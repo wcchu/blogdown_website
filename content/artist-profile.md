@@ -3,7 +3,7 @@ title: Artist Profile
 author: ~
 slug: artist-profile
 categories: ["Art"]
-tags: ["art"]
+tags: ["art", 'about']
 comments: yes
 image: ''
 menu: ''
