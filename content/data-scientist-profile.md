@@ -42,6 +42,8 @@ share: yes
 ##### Research associate at Physics Department, Kansas State University, Manhattan, Kansas, USA
 *Oct 2009 – Feb 2013*
 
+Details of the above two items are in the [Physicist Profile](/physicist-profile/).
+
 ### Courses
 
 Course name | Institute | Certificate | Date
