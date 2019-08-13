@@ -10,11 +10,18 @@ menu: ''
 share: yes
 ---
 
-*under construction*
-
 ### Professional appointments
 
+- 2013.03 – 2015.06 Postdoctoral researcher with Prof. P. St. J. Russell and Dr. J. Travers at Max Planck Institute for the Science of Light, Germany
+- 2009.10 – 2013.02 Research associate with Prof. C. D. Lin at Kansas State University, USA
+- 2004.01 – 2007.05 Teaching assistant at Georgia State University, USA
+- 1999.08 – 2001.07 Research assistant at Academia Sinica, Taiwan
+
 ### Education
+
+- 2010.01 Ph.D. in Physics, Georgia State University. Advisor: Prof. S. T. Manson. Dissertation: Photoionization of the Be isoelectronic sequence: an R-matrix calculation (http://digitalarchive.gsu.edu/phy_astr_diss/40). Major GPA 3.99 / 4.00.
+- 2001.07 M.S. in Physics, National Taiwan University. Advisor: Prof. K.-N. Huang. Major GPA 3.76 / 4.00.
+- 1999.07 B.S. in Physics, National Taiwan University. Major GPA 3.24 / 4.00.
 
 ### Research interests
 
@@ -25,11 +32,20 @@ share: yes
 
 ### Research experiences and achievements
 
+- Conducted experiments of ultrashort pulse propagation in Xe-filled fibers to investigate the nonlinear pulse dynamics involving excited-level transitions.
+- Developed a pulse propagation model in the multi-photon excitation regime in atomic gases. The demonstration in a Xe-filled fiber showed signatures of high-order, broadband contribution of the pulse.
+- Studied nonlinear response of gas systems driven by ultrashort intense pulses in the strong field regime with various numerical models. Remarkable spectral and temporal responses were found, which would guide the experiments with fiber-compressed sub-cycle pump pulses.
+- Studied analytically and numerically the optical carrier-wave shock effect in gas-filled fibers.
+- Developed a multi-level model for autoionizing systems with XUV+IR excitation, which took continuum-continuum coupling, tunnel ionization, and propagation into account. Applications in photoelectron and photoabsorption spectroscopies agreed with experiments and predicted novel phenomena.
+- Conducted high-precision and large scale simulations on atomic photoionization with R-matrix method and random phase approximation. Various atomic structure codes were implemented and compared.
+- Proposed and tested newly-designed photoelastic polarizer (experimental work with Prof. C.-K. Lee, National Taiwan University).
+- Provided theoretical and numerical support for the following groups: A. Abdolvand (MPL), L. Cocke (KSU), M. Kling (KSU & Luwig-Maximilians), T. Pfeifer (MPI-nuclear physics), G. Sansone (Politecnico di Milano).
+
 ### Teaching experiences
 
-- Sep/2011 – Dec/2011 Homework session of applied quantum mechanics, Kansas State University
-- Sep/2006 – May/2007 Principles of physics (laboratory), Georgia State University
-- Jan/2004 – May/2006 Introductory physics (laboratory), Georgia State University
+- 2011.09 – 2011.12 Homework session of applied quantum mechanics, Kansas State University
+- 2006.09 – 2007.05 Principles of physics (laboratory), Georgia State University
+- 2004.01 – 2006.05 Introductory physics (laboratory), Georgia State University
 
 ### Scientific services
 
