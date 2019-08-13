@@ -18,7 +18,7 @@ add the following items
 - free note
 - dark seed
 - phosphor production
-- sound detour
+- sound detour + link to SD sites
 - outlook
 
 Some of my recordings, mainly from the Phosphor Production period, can be found on my Sound Cloud page [here](https://soundcloud.com/wcchu).
