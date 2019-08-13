@@ -19,23 +19,15 @@ comments = true
     url = "/tags/"
 
 [[menu.main]]
-    name = "category - Art"
-    url = "/categories/art/"
+    name = "Art and Music"
+    url = "/categories/art-and-music/"
 
 [[menu.main]]
-    name = "category - Data Science"
+    name = "Data Science"
     url = "/categories/data-science/"
 
 [[menu.main]]
-    name = "category - Music"
-    url = "/categories/music/"
-
-[[menu.main]]
-    name = "category - Physics"
-    url = "/categories/physics/"
-
-[[menu.main]]
-    name = "category - Miscellaneous"
+    name = "Miscellaneous"
     url = "/categories/miscellaneous/"
 
 [params]

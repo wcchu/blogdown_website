@@ -1,9 +1,10 @@
 ---
 title: Physicist Profile
 author: ~
+date: '2019-08-13'
 slug: physicist-profile
-categories: ["Physics"]
-tags: ["physics", 'about', "underconstruction"]
+categories: ["Miscellaneous"]
+tags: ["physics", 'about']
 comments: no
 image: ''
 menu: ''

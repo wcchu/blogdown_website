@@ -1,8 +1,9 @@
 ---
 title: Artist Profile
 author: ~
+date: '2019-08-11'
 slug: artist-profile
-categories: ["Art"]
+categories: ["Art and Music"]
 tags: ["art", 'about']
 comments: yes
 image: ''

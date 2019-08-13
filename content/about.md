@@ -1,6 +1,7 @@
 ---
 title: About
 author: ~
+date: '2019-08-13'
 slug: about
 tags: ['about']
 comments: no

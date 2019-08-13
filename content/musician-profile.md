@@ -1,8 +1,9 @@
 ---
 title: Musician Profile
 author: ~
+date: '2019-08-11'
 slug: musician-profile
-categories: ["Music"]
+categories: ["Art and Music"]
 tags: ["music", 'about', "underconstruction"]
 comments: no
 image: ''
