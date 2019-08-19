@@ -1,0 +1,24 @@
+---
+title: "Tensorflow 2.0"
+author: Wei-Chun Chu
+date: 2019-08-28
+output: beamer_presentation
+---
+
+## List of main changes
+
+- API reorganization
+- Eager execution
+- Globals
+- AutoGraph and flow control
+- keras vs. estimator
+
+## Eager execution
+
+
+
+## Globals
+
+## Flow control
+
+## Keras vs. Estimator
