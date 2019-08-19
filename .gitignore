@@ -1,4 +1,4 @@
 .RData
 .Rhistory
-env/
+env-*/
 .ipynb_checkpoints/
