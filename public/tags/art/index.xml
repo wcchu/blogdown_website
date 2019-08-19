@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>art on JU***BAR***LY</title>
+    <link>/tags/art/</link>
+    <description>Recent content in art on JU***BAR***LY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artist Profile</title>
+      <link>/artist-profile/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/artist-profile/</guid>
+      <description>Artist statement Jubarly (Dr. Wei-Chun Chu) is a Berlin-based visual artist. His art digs into different forms of interactions between light and materials, such as transmission, reflection, diffusion etc, in both realistic and abstract settings.
+He studied physics and optics and worked in Taiwan, US, and Germany on the forefront fields of laser and fiber optics. The expression of his art is related strongly to the theme of motion, fluctuation, and the transient property of light.</description>
+    </item>
+    
+  </channel>
+</rss>

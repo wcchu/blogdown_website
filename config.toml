@@ -1,6 +1,6 @@
 theme = "hugo-theme-casper"
 BaseUrl = "/"
-publishDir = "../wcchu.github.io/"
+publishDir = "public/"
 LanguageCode = "en-us"
 Title = "JU***BAR***LY"
 paginate = 5

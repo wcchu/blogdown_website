@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on JU***BAR***LY</title>
+    <link>/tags/about/</link>
+    <description>Recent content in about on JU***BAR***LY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Dr. Wei-Chun Chu is a painter, data scientist, physicist, and musician based in Berlin. He was born and raised in Taiwan and has been living in the U.S., Ireland, and Germany. He is a senior data scientist of Fit Analytics GmbH, a sizing solution provider for online fashion shops.</description>
+    </item>
+    
+    <item>
+      <title>Physicist Profile</title>
+      <link>/physicist-profile/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/physicist-profile/</guid>
+      <description>Professional appointments  2013.03 – 2015.06 Postdoctoral researcher with Prof. P. St. J. Russell and Dr. J. Travers at Max Planck Institute for the Science of Light, Germany 2009.10 – 2013.02 Research associate with Prof. C. D. Lin at Kansas State University, USA 2004.01 – 2007.05 Teaching assistant at Georgia State University, USA 1999.08 – 2001.07 Research assistant at Academia Sinica, Taiwan  Education  2010.01 Ph.D. in Physics, Georgia State University.</description>
+    </item>
+    
+    <item>
+      <title>Artist Profile</title>
+      <link>/artist-profile/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/artist-profile/</guid>
+      <description>Artist statement Jubarly (Dr. Wei-Chun Chu) is a Berlin-based visual artist. His art digs into different forms of interactions between light and materials, such as transmission, reflection, diffusion etc, in both realistic and abstract settings.
+He studied physics and optics and worked in Taiwan, US, and Germany on the forefront fields of laser and fiber optics. The expression of his art is related strongly to the theme of motion, fluctuation, and the transient property of light.</description>
+    </item>
+    
+    <item>
+      <title>Data Scientist Profile</title>
+      <link>/data-scientist-profile/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/data-scientist-profile/</guid>
+      <description>Profile summary  15+ years of experience in mathematical modelling, programming, and quantitative science Strong knowledge and practical skills in machine learning, deep learning, statistical inference, and modern data tools/platforms Work with world&amp;rsquo;s leading apparel brands and retailers including The North Face, Zara, Asos, Zalando, Adidas and many more  Technical skills  Languages: SQL, R, Go, Python, Julia, C/C++, Fortran, Mathematica, bash scripts Techniques: Deep learning (TensorFlow), reinforcement learning / multi-armed bandit, machine learning, statistics, finite difference method, linear algebra, Fourier analysis  Professional experiences Data Scientist at Fit Analytics GmbH, Berlin, Germany Feb 2016 – Now</description>
+    </item>
+    
+    <item>
+      <title>Musician Profile</title>
+      <link>/musician-profile/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/musician-profile/</guid>
+      <description>under construction
+add the following items
+ free note dark seed phosphor production sound detour outlook  Some of my recordings, mainly from the Phosphor Production period, can be found on my Sound Cloud page here.</description>
+    </item>
+    
+  </channel>
+</rss>

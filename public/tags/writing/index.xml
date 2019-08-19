@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on JU***BAR***LY</title>
+    <link>/tags/writing/</link>
+    <description>Recent content in writing on JU***BAR***LY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New blog website</title>
+      <link>/post/new-blog-website/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-blog-website/</guid>
+      <description>This website is a blog for my activities in physics, visual art, music, data science, and more. I intend to connect my projects/art works/writings that are scattered among different social sites together using this blog.
+The repository https://github.com/wcchu/blogdown_website contains the codes to create this website using R blogdown and Hugo. I&amp;rsquo;ve chosen the Hugo theme &amp;ldquo;Casper&amp;rdquo; (https://themes.gohugo.io/casper/) for its simplistic design and easy configuration. The inspiration also came from the R blogdown demonstration written by Corrie Bartelheimer, a data scientist that I met in satRday Berlin (https://berlin2019.</description>
+    </item>
+    
+  </channel>
+</rss>
