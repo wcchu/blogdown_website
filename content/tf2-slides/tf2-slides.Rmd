@@ -13,15 +13,26 @@ output: beamer_presentation
 - AutoGraph and flow control
 - keras vs. estimator
 
-## Eager execution
+## Eager execution basics
 
 There's no need to define graphs and sessions explicitly.
 
 TF1 vs TF2 for low-level custom model (`y = W * x + b` linear regression)
 
-[TF1 example](custom-model-tf1.pdf)
+[_TF1 example_](custom-model-tf1.pdf)
 
-[TF2 example](custom-model-tf2.pdf)
+[_TF2 example_](custom-model-tf2.pdf)
+
+## Eager execution - tf.function
+
+[_Tutorial link_](https://www.tensorflow.org/beta/tutorials/eager/tf_function)
+[_API link_](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/function)
+
+"Creates a callable TensorFlow graph from a Python function."
+
+- numerical or tensor input
+- input signatures
+- tracing/staging
 
 ## Globals
 
