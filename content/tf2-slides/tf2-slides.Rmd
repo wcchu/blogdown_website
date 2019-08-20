@@ -15,7 +15,13 @@ output: beamer_presentation
 
 ## Eager execution
 
+There's no need to define graphs and sessions explicitly.
 
+TF1 vs TF2 for low-level custom model (`y = W * x + b` linear regression)
+
+[TF1 example](custom-model-tf1.pdf)
+
+[TF2 example](custom-model-tf2.pdf)
 
 ## Globals
 
